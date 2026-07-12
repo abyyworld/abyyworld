@@ -24,4 +24,4 @@ Working toward publications at venues like **CHI**
 
 > *"Make it work, make it right, make it fast."*
 
-📫 [LinkedIn](https://linkedin.com/in/yourhandle) · [UoB VR Lab](https://www.birmingham.ac.uk)
+📫 [LinkedIn](https://www.linkedin.com/in/akbarjuraev/) · [UoB VR Lab](https://virtualrealitylab.netlify.app/)
