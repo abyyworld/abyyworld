@@ -13,17 +13,21 @@ Four studies in preparation for **CHI** and **IEEE VR**. Founder of **[Cicatrixa
 ### Research
 
 **Error Feedback in Immersive Voice Programming (DreamCodeVR)**
+*When an AI writes your code and it breaks, can you still tell whose mistake it was? In VR, speech is the only tool you have to find out.*
 Wizard-of-Oz user study on how people understand, attribute, and recover from AI-generated code errors in VR. Extends a live voice-to-code system (speech to LLM to Unity C#, compiled in-scene) with three controlled feedback conditions: none, explanatory text panel, and embodied conversational agent. I contributed to the idea, implemented most of the technical work, and am now contributing to the study design. Manuscript in preparation, targeting CHI 2027.
 [Repository](https://github.com/abyyworld/Real-Time-Immersive-Speech-Programming/tree/Visualisation-DreamCodeVR-feedback-loop)
 
 **Omni-Connect / DeviceSphere: Cross-Device Interaction**
+*Close your fist over a function on the laptop, open it toward the tablet, and it is there.*
 A laptop, phone, and tablet operating as one connected workspace: native Unity coordination server plus zero-install WebGL clients over the local network. Gesture-driven cross-device copy-paste captured with Meta Project Aria 2 glasses, over a real-time WebSocket-to-UDP bridge. Infrastructure for two controlled user studies. Targeting CHI 2027.
 [Repository](https://github.com/abyyworld/omni-connect)
 
 **AgenticXR: Safe Agentic Authoring Inside Immersive Environments**
+*Letting an AI edit the world you are standing in is only safe if it can be tested somewhere else first.*
 A person in VR creates interactive behaviour by speaking, while AI agents generate, critique, and validate that behaviour before it is allowed to change the live scene. Builds on DreamCodeVR, originally developed at UCL. I own evaluation and deployment: the within-subjects study design, the study harness merged upstream, Quest deployment, and the first live speech-to-text validation. Targeting IEEE VR.
 
 **LLM-Designed Affective VR Environments**
+*Can an LLM design a room that reliably makes you feel calm, and does the shape of the room change the answer?*
 Whether an LLM, constrained to a fixed pool of interior-design parameters, can compose virtual rooms that reliably induce a target emotion, and whether room shape moderates that effect. Contributed to ideation and research meetings, and built the technical system.
 
 ### Robot Learning & ML Infrastructure
