@@ -4,7 +4,7 @@
 
 BSc AI & Computer Science at the **University of Birmingham** · Research Assistant
 
-Four studies in preparation for **ACM CHI** and **IEEE VR**. Founder of **[Cicatrixa](https://cicatrixa.com)**.
+Two papers under review: **first author** at **ACM CHI 2027**, co-author at **IEEE VR 2027**. Founder of **[Cicatrixa](https://cicatrixa.com)**.
 
 **[akbarjuraev.com](https://www.akbarjuraev.com)** · [CV](https://www.akbarjuraev.com/cv.pdf) · [ORCID](https://orcid.org/0009-0008-7883-6699)
 
@@ -19,12 +19,12 @@ Wizard-of-Oz user study on how people understand, attribute, and recover from AI
 
 **Omni-Connect / DeviceSphere: Cross-Device Interaction**
 *Close your fist over a function on the laptop, open it toward the tablet, and it is there.*
-A laptop, phone, and tablet operating as one connected workspace: native Unity coordination server plus zero-install WebGL clients over the local network. Gesture-driven cross-device copy-paste captured with Meta Project Aria 2 glasses, over a real-time WebSocket-to-UDP bridge. Infrastructure for two controlled user studies. Targeting ACM CHI.
+A laptop, phone, and tablet operating as one connected workspace: native Unity coordination server plus zero-install WebGL clients over the local network. Gesture-driven cross-device copy-paste captured with Meta Project Aria 2 glasses, over a real-time WebSocket-to-UDP bridge. Infrastructure for two controlled user studies. Submitted to **ACM CHI 2027**, under review.
 [Repository](https://github.com/abyyworld/omni-connect)
 
 **AgenticXR: Safe Agentic Authoring Inside Immersive Environments**
 *Letting an AI edit the world you are standing in is only safe if it can be tested somewhere else first.*
-A person in VR creates interactive behaviour by speaking, while AI agents generate, critique, and validate that behaviour before it is allowed to change the live scene. Builds on DreamCodeVR, originally developed at UCL. I own evaluation and deployment: the within-subjects study design, the study harness merged upstream, Quest deployment, and the first live speech-to-text validation. Targeting IEEE VR.
+A person in VR creates interactive behaviour by speaking, while AI agents generate, critique, and validate that behaviour before it is allowed to change the live scene. Builds on DreamCodeVR, originally developed at UCL. I own evaluation and deployment: the within-subjects study design, the study harness merged upstream, Quest deployment, and the first live speech-to-text validation. Submitted to **IEEE VR 2027**, under review.
 
 **LLM-Designed Affective VR Environments**
 *Can an LLM design a room that reliably makes you feel calm, and does the shape of the room change the answer?*
