@@ -1,8 +1,8 @@
 # Akbar Juraev
 
-**Software & Machine Learning Engineer · Robotics · Human-AI Interaction Research**
+**Robotics & Software Engineer · HCI, Human-AI Interaction Researcher @ Birmingham**
 
-BSc AI & Computer Science at the **University of Birmingham** · Research Assistant · former IT Ambassador between Uzbekistan and the UK under the Ministry of Digital Technologies
+BSc AI & Computer Science at the **University of Birmingham** · Research Assistant
 
 Four studies in preparation for **ACM CHI** and **IEEE VR**. Founder of **[Cicatrixa](https://cicatrixa.com)**.
 
