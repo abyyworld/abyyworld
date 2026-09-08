@@ -2,7 +2,7 @@
 
 **Robotics & Software Engineer · HCI, Human-AI Interaction Researcher @ Birmingham**
 
-BSc AI & Computer Science at the **University of Birmingham** · Research Assistant
+BSc AI & CS @ **UoB** · HCI research @ **VR Lab** · **BhamXR** · **CHI**
 
 Two papers under review: **first author** at **ACM CHI 2027**, co-author at **IEEE VR 2027**. Founder of **[Cicatrixa](https://cicatrixa.com)**.
 
