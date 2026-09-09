@@ -4,7 +4,7 @@
 
 BSc AI & CS @ **UoB** · HCI research @ **VR Lab** · **BhamXR** · **CHI**
 
-Two papers under review: **first author** at **ACM CHI 2027**, co-author at **IEEE VR 2027**. Founder of **[Cicatrixa](https://cicatrixa.com)**.
+Co-author on a paper under review at **IEEE VR 2027**; **first author** on one in preparation for **ACM UIST 2027**. Founder of **[Cicatrixa](https://cicatrixa.com)**.
 
 **[akbarjuraev.com](https://www.akbarjuraev.com)** · [CV](https://www.akbarjuraev.com/cv.pdf) · [ORCID](https://orcid.org/0009-0008-7883-6699)
 
@@ -14,12 +14,12 @@ Two papers under review: **first author** at **ACM CHI 2027**, co-author at **IE
 
 **Error Feedback in Immersive Voice Programming (DreamCodeVR)**
 *When an AI writes your code and it breaks, can you still tell whose mistake it was? In VR, speech is the only tool you have to find out.*
-Wizard-of-Oz user study on how people understand, attribute, and recover from AI-generated code errors in VR. Extends a live voice-to-code system (speech to LLM to Unity C#, compiled in-scene) with three controlled feedback conditions: none, explanatory text panel, and embodied conversational agent. I contributed to the idea, implemented most of the technical work, and am now contributing to the study design. Manuscript in preparation, targeting ACM CHI.
+Wizard-of-Oz user study on how people understand, attribute, and recover from AI-generated code errors in VR. Extends a live voice-to-code system (speech to LLM to Unity C#, compiled in-scene) with three controlled feedback conditions: none, explanatory text panel, and embodied conversational agent. I contributed to the idea, implemented most of the technical work, and am now contributing to the study design. Manuscript in preparation.
 [Repository](https://github.com/abyyworld/Real-Time-Immersive-Speech-Programming/tree/Visualisation-DreamCodeVR-feedback-loop)
 
 **Omni-Connect / DeviceSphere: Cross-Device Interaction**
 *Close your fist over a function on the laptop, open it toward the tablet, and it is there.*
-A laptop, phone, and tablet operating as one connected workspace: native Unity coordination server plus zero-install WebGL clients over the local network. Gesture-driven cross-device copy-paste captured with Meta Project Aria 2 glasses, over a real-time WebSocket-to-UDP bridge. Infrastructure for two controlled user studies. Submitted to **ACM CHI 2027**, under review.
+A laptop, phone, and tablet operating as one connected workspace: native Unity coordination server plus zero-install WebGL clients over the local network. Gesture-driven cross-device copy-paste captured with Meta Project Aria 2 glasses, over a real-time WebSocket-to-UDP bridge. Infrastructure for two controlled user studies. In preparation, targeting **ACM UIST 2027**.
 [Repository](https://github.com/abyyworld/omni-connect)
 
 **AgenticXR: Safe Agentic Authoring Inside Immersive Environments**
