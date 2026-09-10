@@ -1,6 +1,6 @@
 # Akbar Juraev
 
-**Robotics & Software Engineer · HCI, Human-AI Interaction Researcher @ Birmingham**
+**Robotics & Software Engineer · Human-AI Interaction Researcher @ Birmingham**
 
 BSc AI & CS @ **UoB** · HCI research @ **VR Lab** · **BhamXR** · **IEEE VR**
 
