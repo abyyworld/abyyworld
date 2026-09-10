@@ -57,7 +57,7 @@ Independent reimplementation of a directional gender-bias evaluation method from
 
 **[Cicatrixa](https://cicatrixa.com)** (founder): point it at any GitHub repo and it works out how to build it, wires a subdomain, verifies the deployment end-to-end, then stays on call. Every push redeploys; every crash is diagnosed and repaired automatically before the developer hears about it.
 
-**[Role Radar](https://github.com/abyyworld/internship-tracker)**: continuously re-verified tracker of ~700 research, PhD, and postdoc postings, classified by category, region, term, and work-authorisation status. One-click evidence-checked CV tailoring that runs entirely on localhost; the public repo never receives the profile or generated documents. [Dashboard](https://abyyworld.github.io/internship-tracker/)
+**[Role Radar](https://github.com/abyyworld/internship-tracker)**: live job tracker covering 964 company boards, every listing re-checked daily against the official source so closed roles drop out on their own, classified by category, region, term, and work-authorisation status. One-click evidence-checked CV tailoring that runs entirely on localhost; the public repo never receives the profile or generated documents. [Dashboard](https://abyyworld.github.io/internship-tracker/)
 
 **Wind-Turbine Health Analytics**: drone-based computer vision classifying turbine conditions and detecting operational modes from aerial imagery. Pipeline from dataset preparation through training, evaluation, and production export. Built at Turin Polytechnic University in Tashkent.
 
